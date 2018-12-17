@@ -1,0 +1,11 @@
+.btn {
+    color: #ffffff;
+    background-color: blue;
+    border-bottom-color: cornflowerblue;
+}
+.btn-primary{
+    border-radius: .25rem;
+    padding: .375rem .70rem;
+    border: 1px solid transparent;
+
+}
