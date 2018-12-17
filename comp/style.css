@@ -6,7 +6,7 @@ background-color: #a3a9af;
     background-color: #dc5afa !important;
 }
 .navbar {
-    position: relative;
+    position: sticky;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -17,4 +17,14 @@ background-color: #a3a9af;
     justify-content: space-between;
     text-align: center;
     border-radius: .5rem;
+}
+
+#home {
+    height: 100vh;
+    margin-top: 1%;
+}
+#home2 {
+    height: 100vh;
+    background-image: url("https://afrimarket.fr/media/catalog/product/cache/image/458x458/beff4985b56e3afdbeabfc89641a4582/P/O/POISSON_FAUX_BAR_1kg.jpg");
+    text-align: center;
 }
