@@ -1,3 +1,6 @@
+#img{
+    background-image:url("back.jpg");
+}
 .btn {
     color: #ffffff;
     background-color: blue;
@@ -8,4 +11,18 @@
     padding: .375rem .70rem;
     border: 1px solid transparent;
 
+}
+.style{
+    padding-top: 5px;
+    margin-top: 5px;
+}
+#haut{
+    text-align: center;
+}
+#accueil{
+    width: 100vh;
+}
+#bas {
+    text-align: center;
+    margin-top: 35%;
 }
