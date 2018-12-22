@@ -1,33 +1,38 @@
 #home1 {
     height: 100vh;
     background-image: url("retro.jpg");
-    margin-left: auto;
-    margin-right: auto;
-    background-position: Top 20% left 36%;
+    background-position: Top 20% left 45%;
 }
 #home2{
     height: 100vh;
+    background-image: url("fd2.jpg");
+    background-position: bottom 50% right 70%;
 }
-
-.inner{
+#home3{
+    height: 100vh;
+    margin-top: 23%;
+}
+.navbar{
+    background-image: linear-gradient(#908c38, #baa687);
+    position: fixed;
+    width: 100%;
 
 }
 .masthead-brand {
-    margin-left: 40px;
     text-decoration: underline;
     text-decoration-color: black;
 
 }
 
-.nav{
-    justify-content: flex-end;
-    background-image: linear-gradient(#908c38, #baa687);
-    display: block;
-    position: fixed;
-    width: 100%;
+.text{
+    color: whitesmoke;
 }
-.nav-link{
-    color: white;
-    text-align: end;
-    text;
+#logo{
+    width: 120px;
+    margin: auto;
+
+}
+.colonne{
+    margin-top: 10%;
+    m
 }
