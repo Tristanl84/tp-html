@@ -40,3 +40,25 @@
     padding-top: 25px;
     margin-right: 15%;
 }
+
+.carousel-item{
+    margin-top: 8%;
+    margin-left: 40%;
+}
+.carouselExampleIndicators{
+    margin-top: 5%;
+}
+.text{
+    color: #000;
+}
+
+#home4{
+    height: 100vh;
+}
+
+.bloc{
+    height: 150px;
+}
+.containerr{
+    margin-top: auto;
+}
